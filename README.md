@@ -1,3 +1,3 @@
 WORK IN PROGRESS
 
-📄 See [`LICENSE.md`](LICENSE.md) for usage terms.
+📄 See [`LICENSE.MD`](LICENSE.MD) for usage terms.
